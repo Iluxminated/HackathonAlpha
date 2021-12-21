@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hackathon_final</string>
+        <string-array name="grados">
+            <item>DAM</item>
+            <item>DAW</item>
+            <item>ASIX</item>
+        </string-array>
+</resources>

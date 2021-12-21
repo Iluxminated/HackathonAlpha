@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OneDrive - Centre d'Estudis Monlau/2DAM/M8/Hackathon_final/app/src/main/res/drawable/bg_add.xml" value="0.3828125" />
+        <entry key="..\:/OneDrive - Centre d'Estudis Monlau/2DAM/M8/Hackathon_final/app/src/main/res/drawable/bg_add_panel.xml" value="0.3828125" />
+        <entry key="..\:/OneDrive - Centre d'Estudis Monlau/2DAM/M8/Hackathon_final/app/src/main/res/drawable/bg_editext.xml" value="0.3828125" />
+        <entry key="..\:/OneDrive - Centre d'Estudis Monlau/2DAM/M8/Hackathon_final/app/src/main/res/layout/activity_add_student.xml" value="0.2957427536231884" />
+        <entry key="..\:/OneDrive - Centre d'Estudis Monlau/2DAM/M8/Hackathon_final/app/src/main/res/layout/activity_all_students.xml" value="0.20520833333333333" />
+        <entry key="..\:/OneDrive - Centre d'Estudis Monlau/2DAM/M8/Hackathon_final/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/OneDrive - Centre d'Estudis Monlau/2DAM/M8/Hackathon_final/app/src/main/res/layout/activity_remove_student.xml" value="0.2957427536231884" />
+        <entry key="..\:/OneDrive - Centre d'Estudis Monlau/2DAM/M8/Hackathon_final/app/src/main/res/layout/list_items.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/alexcasviu/Downloads/test/Hackathon_final/app/src/main/res/layout/activity_add_student.xml" value="0.25" />
+        <entry key="..\:/Users/alexcasviu/Downloads/test/Hackathon_final/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/alexcasviu/Downloads/test/Hackathon_final/app/src/main/res/layout/activity_remove_student.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/alexcasviu/Downloads/test/Hackathon_final/app/src/main/res/layout/spinner_item.xml" value="0.14270833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
